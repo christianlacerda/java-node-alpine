@@ -1,4 +1,4 @@
-FROM openjdk:8-alpine
+FROM openjdk:18-alpine
 
 LABEL maintainer="Christian Lacerda <christian.mails@gmail.com>"
 
